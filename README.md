@@ -1,2 +1,2 @@
 # Sol_Project_Euler
-Project Euler Solution
+Solution of Project Euler questions
